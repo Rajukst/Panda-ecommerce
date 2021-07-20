@@ -1,0 +1,8 @@
+input {
+    width: 150px;
+    -webkit-transition: width .35s ease-in-out;
+    transition: width .35s ease-in-out;
+  }
+  input:focus {
+    width: 250px;
+  }
